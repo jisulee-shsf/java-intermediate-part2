@@ -3,7 +3,7 @@ package generic.test.ex3;
 import generic.animal.Cat;
 import generic.animal.Dog;
 
-public class AnimalHospital {
+public class AnimalHospitalMainV0 {
 
     public static void main(String[] args) {
         Dog dog = new Dog("멍이1", 100);
