@@ -9,6 +9,15 @@ public class Animal {
         this.size = size;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public int getSize() {
+        return size;
+    }
+
+
     public void sound() {
         System.out.println("동물 울음 소리");
     }
